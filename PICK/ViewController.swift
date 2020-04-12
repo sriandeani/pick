@@ -143,7 +143,7 @@ class ViewController: UIViewController {
         updateProgress(direct: false)
     }
     
-    
+    // ini adalah komentas
     
 }
 
